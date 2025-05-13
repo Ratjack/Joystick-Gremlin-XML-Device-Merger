@@ -3,6 +3,7 @@
 **Joystick Gremlin XML Device Merger** is a simple utility that helps you merge VKB device definitions (like SEM, THQ, etc.) into existing Joystick Gremlin profile XML files.
 
 ** Note
+
 This works best if your SEM is setup as a separate virtual controller.  To see how you can setup your SEM a virtual controller see the following YouTube video. https://www.youtube.com/watch?v=0VM-OoXhYvs&t=94s.  Alternatively I have included my saved CFG for my right stick where the SEM has been separated into a virtual device.
 
 It allows you to:
