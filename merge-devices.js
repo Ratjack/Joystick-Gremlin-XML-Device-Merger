@@ -115,7 +115,7 @@ const targetXml = fs.readFileSync(targetPath, 'utf8');
 
     const mergedXml = builder.buildObject(targetParsed);
 
-    const outputFile = path.resolve(workingDir, 'Joystick Gremlin Merged VKB');
+    const outputFile = path.resolve(workingDir, 'Joystick Gremlin Merged VKB.xml');
 fs.writeFileSync(outputFile, mergedXml, 'utf8');
 
     console.log(`✅ Done! Created: ${outputFile}`);
