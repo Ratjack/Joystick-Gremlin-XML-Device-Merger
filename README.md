@@ -1,6 +1,6 @@
 # Joystick Gremlin XML Device Merger
 
-**Joystick Gremlin XML Device Merger** is a simple utility that helps you merge VKB device definitions (like SEM, THQ, etc.) into existing Joystick Gremlin profile XML files.
+**Joystick Gremlin XML Device Merger** is a simple utility that helps you merge a device from one Joystick Gremlin profile to Another.  Instead of having to go in and copy and paste manually and picking the right device, this utility will list the devices in the file along with the number of containers helping identify the correct one.
 
 
 It allows you to:
@@ -36,12 +36,12 @@ When you launch the tool:
 
 ---
 
-## Use With Subliminal's VKB profile
+## Use With Premade VKB Joystick Gremlin Profile
 
 -Place your Joystick Gremlin profile or previously used one with your device in the folder
--Place Subliminals Joystick Gremlin profile in the folder
+-Place new premade Joystick Gremlin profile in the same folder
 -Run and select the source and target to bring your device in.
--If updating to a newly release profile, just load in your old one along with the newly release.
+-If updating to a newly released profile, just load in your old one along with the newly release.
 
 ## 📦 Installation
 
